@@ -13,6 +13,7 @@ What is planned, and which is just a matter of time (in other words I have all t
   - automation for football and other events
   - automation of conquests
   - help automation for other players (polishing + tavern)
+  - automation of trade
   - others divers stuff
   - User interface
   
