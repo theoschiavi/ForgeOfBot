@@ -17,4 +17,4 @@ What is planned, and which is just a matter of time (in other words I have all t
   - others divers stuff
   - User interface
   
-  Code is not public, ask me 
+  Code is not public, web interface will be available soon, you must ask me to create credentials.
