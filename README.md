@@ -18,3 +18,7 @@ What is planned, and which is just a matter of time (in other words I have all t
   - User interface
   
   Code is not public, web interface will be available soon, you must ask me to create credentials.
+  
+  UPDATE 27/08/2020:
+   - New features in development : Auto account creator + auto tutorial
+   - New website : https://forgeofbot.000webhostapp.com
