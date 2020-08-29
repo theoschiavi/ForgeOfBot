@@ -23,4 +23,4 @@ What is planned, and which is just a matter of time (in other words I have all t
    - New features in development : Auto account creator + auto tutorial
    - New website : https://forgeofbot.000webhostapp.com
    
-   <img src="./CAPTURE.PNG">
+   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
