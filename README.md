@@ -26,6 +26,7 @@
     <li>User interface</li>
   </ul>
   Code is <b>not public</b>, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
+  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
   </p>
   
   <p>
@@ -35,8 +36,6 @@
     <li>New website : https://forgeofbot.000webhostapp.com</li>
   </ul>
   </p>
-   
-   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
 
   <p>
   <b>UPDATE 30/08/2020:</b>
@@ -44,7 +43,8 @@
     <li><p>Account creator fully functional; it will be available at the same time as the bot
     <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator.PNG?raw=true"></p></li>
     <li>Automatization of tutorial is fully functional
-    <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator.PNG?raw=true">
+    <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_tutorial_step1.PNG?raw=true">
+    <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_tutorial_step2.PNG?raw=true">
     </li>
   </ul>
   </p>
