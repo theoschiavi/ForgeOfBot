@@ -1,35 +1,52 @@
 # ForgeOfBot
-Forge of Empire bot made in python
+<h1>Forge of Empire bot made in python</h1>
 
-Availables features : 
-  - automatic connection and reconnection
-  - auto launch. of productions with choice of the type of production (5min, 15min etc ...)
-  - auto launch. production of military units
-  - auto. motivate your friends
-  - flood all your neighbours with custom message
-  - auto harvest. of production (gold, goods, military units)
-  - auto harvest. incidents.
-  - use by command-line
+  <p>
+  Availables features : 
+  <ul>
+    <li>automatic connection and reconnection</li>
+    <li>auto launch. of productions with choice of the type of production (5min, 15min etc ...)</li>
+    <li>auto launch. production of military units</li>
+    <li>auto. motivate your friends</li>
+    <li>flood all your neighbours with custom message</li>
+    <li>auto harvest. of production (gold, goods, military units)</li>
+    <li>auto harvest. incidents.</li>
+    <li>use by command-line</li>
+   </ul>
+   </p>
+   
+  <p>
+  What is planned, and which is just a matter of time (in other words I have all the data necessary for the realization):
+  <ul>
+    <li>automation for football and other events</li>
+    <li>automation of conquests</li>
+    <li>help automation for other players (polishing + tavern)</li>
+    <li>automation of trade</li>
+    <li>others divers stuff</li>
+    <li>User interface</li>
+  </ul>
+  Code is <b>not public</b>, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
+  </p>
   
-What is planned, and which is just a matter of time (in other words I have all the data necessary for the realization):
-  - automation for football and other events
-  - automation of conquests
-  - help automation for other players (polishing + tavern)
-  - automation of trade
-  - others divers stuff
-  - User interface
-  
-  Code is not public, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
-  
+  <p>
   <b>UPDATE 27/08/2020:</b>
-   - New features in development : Auto account creator + auto tutorial
-   - New website : https://forgeofbot.000webhostapp.com
+  <ul>
+    <li>New features in development : Auto account creator + auto tutorial</li>
+    <li>New website : https://forgeofbot.000webhostapp.com</li>
+  </ul>
+  </p>
    
    <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
 
+  <p>
   <b>UPDATE 30/08/2020:</b>
-    - Account creator fully functional; it will be available at the same time as the bot\n
-    - Automatization of tutorial is fully functional
-    
-<img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
-<p>I did'nt hide the identifiers because you can imagine that they have no value</p>
+  <ul>
+    <li>Account creator fully functional; it will be available at the same time as the bot</li>
+    <li>Automatization of tutorial is fully functional</li>
+  </ul>
+  </p>
+  
+  <p>
+  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
+  I did'nt hide the identifiers because you can imagine that they have no value
+  </p>
