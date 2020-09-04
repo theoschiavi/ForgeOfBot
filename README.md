@@ -46,7 +46,5 @@
   </ul>
   </p>
   
-  <p>
   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
-  I did'nt hide the identifiers because you can imagine that they have no value
-  </p>
+  <p> I did'nt hide the identifiers because you can imagine that they have no value </p>
