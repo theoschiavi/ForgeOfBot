@@ -29,7 +29,7 @@ What is planned, and which is just a matter of time (in other words I have all t
 
   <b>UPDATE 30/08/2020:</b>
     - Account creator fully functional; it will be available at the same time as the bot
-    - Automatization of tutorial is fully functional.
+    - Automatization of tutorial is fully functional
     
 <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
 <p>I did'nt hide the identifiers because you can imagine that they have no value</p>
