@@ -46,5 +46,5 @@
   </ul>
   </p>
   
-  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
+  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator.PNG?raw=true">
   <p> I did'nt hide the identifiers because you can imagine that they have no value </p>
