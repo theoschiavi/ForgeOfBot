@@ -28,7 +28,7 @@ What is planned, and which is just a matter of time (in other words I have all t
    <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
 
   <b>UPDATE 30/08/2020:</b>
-    - Account creator fully functional; it will be available at the same time as the bot
+    - Account creator fully functional; it will be available at the same time as the bot\n
     - Automatization of tutorial is fully functional
     
 <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
