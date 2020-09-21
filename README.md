@@ -42,7 +42,7 @@
   <ul>
     <li>
       <p>Account creator fully functional; it will be available at the same time as the bot
-      <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator_.PNG?raw=true">
+      <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator.PNG?raw=true">
       </p>
     </li>
     <li>Automatization of tutorial is fully functional
