@@ -43,7 +43,6 @@
     <li>
       <p>Account creator fully functional; it will be available at the same time as the bot
       <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture_account_creator.PNG?raw=true">
-        <p>I did'nt hide the identifiers because you can imagine that they have no value</p>
       </p>
     </li>
     <li>Automatization of tutorial is fully functional
