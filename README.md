@@ -1,4 +1,6 @@
 # ForgeOfBot
+<h1><b>Beta Version : send email at adm.forgeofbot@gmail.com to become a beta-tester!</b></h1>
+
 <h1>Forge of Empire bot made in python</h1>
 
   <p>
