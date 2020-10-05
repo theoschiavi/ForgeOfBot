@@ -11,6 +11,7 @@
     <li>flood all your neighbours with custom message</li>
     <li>auto harvest. of production (gold, goods, military units)</li>
     <li>auto harvest. incidents.</li>
+    <li>help automation for other players (polishing)</li>
     <li>use by command-line</li>
    </ul>
    </p>
@@ -20,7 +21,7 @@
   <ul>
     <li>automation for football and other events</li>
     <li>automation of conquests</li>
-    <li>help automation for other players (polishing + tavern)</li>
+    <li>help automation for other players (tavern)</li>
     <li>automation of trade</li>
     <li>others divers stuff</li>
     <li>User interface</li>
