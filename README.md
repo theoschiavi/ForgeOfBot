@@ -13,6 +13,17 @@
   </ul>
  </p>
  
+ <p>
+ <h2>Support</h2>
+ For any bugs or issue encountered, please report them with following informations:
+ <ul>
+ <li>Which server are you playing on</li>
+ <li>The error output</li>
+ <li>The OS you run</li>
+ <li>The situation when the bug happened</li>
+ </ul>
+ </p>
+ 
 
   <p>
   Availables features : 
