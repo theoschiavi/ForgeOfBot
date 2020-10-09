@@ -3,6 +3,17 @@
 
 <h1>Forge of Empire bot made in python</h1>
 
+ <p>
+  <h2>
+  Usage : ./executable.exe "username" "password" i_server "region"
+    </h2>
+  <ul>
+    <li><b>i_server</b> is the index of the server you want to connect to. If you play on only 1 server, type 0. If you want to play on a new server, type -1.</li>
+    <li><b>region</b> is your region, "fr", "us", etc..</li>
+  </ul>
+ </p>
+ 
+
   <p>
   Availables features : 
   <ul>
@@ -28,13 +39,7 @@
     <li>others divers stuff</li>
     <li>User interface</li>
   </ul>
-  <p>
-  Usage : ./executable.exe "username" "password" i_server "region"
-  <ul>
-    <li><b>i_server</b> is the index of the server you want to connect to. If you play on only 1 server, type 0. If you want to play on a new server, type -1.</li>
-    <li><b>region</b> is your region, "fr", "us", etc..</li>
-  </ul>
- </p>
+ 
   Code is <b>not public</b>, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
   </p>
