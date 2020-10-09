@@ -26,7 +26,8 @@
  
 
   <p>
-  Availables features : 
+ <h2>
+  Availables features : </h2>
   <ul>
     <li>automatic connection and reconnection</li>
     <li>auto launch. of productions with choice of the type of production (5min, 15min etc ...)</li>
@@ -41,7 +42,7 @@
    </p>
    
   <p>
-  What is planned, and which is just a matter of time (in other words I have all the data necessary for the realization):
+  <h2> What is planned, and which is just a matter of time (in other words I have all the data necessary for the realization): </h2>
   <ul>
     <li>automation for football and other events</li>
     <li>automation of conquests</li>
