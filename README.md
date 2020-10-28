@@ -5,7 +5,7 @@
 
  <p>
   <h2>
-  Usage : ./executable.exe "username" "password" i_server "region"
+  Usage : ./ForgeOf_Bot_[version].exe "username" "password" i_server "region"
     </h2>
   <ul>
     <li><b>i_server</b> is the index of the server you want to connect to. If you play on only 1 server, type 0. If you want to play on a new server, type -1.</li>
