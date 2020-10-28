@@ -1,5 +1,5 @@
 # ForgeOfBot
-<h1><b>Beta Version : download from website https://forgeofbot.000webhostapp.com and try!</b></h>
+<h1><b>Beta Version</b></h1>
 
 <h1>Forge of Empire bot made in python</h1>
 
