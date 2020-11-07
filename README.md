@@ -1,4 +1,17 @@
 # ForgeOfBot
+  
+<p>
+<b>UPDATE 07/11/2020:</b>
+<ul>
+ <li><b>BIG NEWS</b>!! The user interface wil be available soon soooon!! watch screenshots ;) </li>
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_management.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
+</ul>
+</p>
+  
 <h1><b>Beta Version</b></h1>
 
 <h1>Forge of Empire bot made in python</h1>
@@ -54,13 +67,6 @@
  
   Code is <b>not public</b>, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
-  </p>
-  
-   <p>
-  <b>UPDATE 07/11/2020:</b>
-  <ul>
-   <li><b>BIG NEWS</b>!! The user interface wil be available soon soooon!! watch screenshots ;) </li>
-  </ul>
   </p>
   
   <p>
