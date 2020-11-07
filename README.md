@@ -56,6 +56,13 @@
   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
   </p>
   
+   <p>
+  <b>UPDATE 07/11/2020:</b>
+  <ul>
+   <li><b>BIG NEWS</b>!! The user interface wil be available soon soooon!! watch screenshots ;) </li>
+  </ul>
+  </p>
+  
   <p>
   <b>UPDATE 27/08/2020:</b>
   <ul>
