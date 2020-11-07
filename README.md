@@ -7,7 +7,7 @@
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_management.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_management.png?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
 </ul>
 </p>
