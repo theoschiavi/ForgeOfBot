@@ -4,6 +4,7 @@
 <b>UPDATE 07/11/2020:</b>
 <ul>
  <li><b>BIG NEWS</b>!! The user interface wil be available soon soooon!! watch screenshots ;) </li>
+ <li> The update will also contains a big anti-ban security, and add the options to choose delay between each actions each iterations </li>
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.png?raw=true">
