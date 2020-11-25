@@ -10,10 +10,10 @@
      <li> Select "Free Version" if you have not a paid license key </li>
      <li> Enter your credentials then click "Login" </li>
      <li> Select your server in the servers list </li>
-     <li> Configure the bot then click "Run" <li>
+     <li> Configure the bot then click "Run" </li>
    </ol>
-   <li> The auto-tutorial feature is not available in this latest release. <li>
-   <li> When the bot asking for Licence key, select "Free Version". The How-to-buy guide will be available soon </li>
+   <li> The auto-tutorial feature is not available in this latest release. </li>
+   <li> When the bot asking for Licence key, select "Free Version". The How-to-buy guide is below</li>
    <li> Thank you and don't forget to report any issues.</li>
   </ul>
 </p>
