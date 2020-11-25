@@ -1,14 +1,31 @@
 # ForgeOfBot
  
 <p>
+<h2> <b> Latest release : </b> </h2>
   <b> UPDATE 25/11/2020 </b>
   <ul>
    <li> The new release 1.1.9.2 is available! Use the UI to run the bot and configure it much easily! </li>
+    <ol>
+     <li> Run ForgeOfBot.exe </li>
+     <li> Select "Free Version" if you have not a paid license key <li>
+     <li> Enter your credentials then click "Login" </li>
+     <li> Select your server in the servers list </li>
+     <li> Configure the bot then click "Run" <li>
+   </ol>
    <li> The auto-tutorial feature is not available in this latest release. <li>
    <li> When the bot asking for Licence key, select "Free Version". The How-to-buy guide will be available soon </li>
    <li> Thank you and don't forget to report any issues.</li>
-   </ul>
+  </ul>
 </p>
+
+<p>
+<h2> <b> How-to-buy </b> </h2>
+<ol>
+ <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
+ <li> Fill the form and validate </li>
+ <li> If payment is succesfull, you will be redirected to a new page where you can find your license Key.<b>KEEP IT ON YOUR COMPUTER OR SAVE IT ANYWHERE SAFE! IT WILL BE ASKED AT EVERY BOT LAUNCH. (eg: save it in "license.lic" in the same directory as ForgeOfBot.exe)</b> </li>
+ <li> Run the bot then enter your license key! </li>
+</ol>
 
 <p>
 <b>UPDATE 07/11/2020:</b>
@@ -75,8 +92,6 @@
     <li>others divers stuff</li>
     <li>User interface</li>
   </ul>
- 
-  Code is <b>not public</b>, web interface will be available soon, see link https://forgeofbot.000webhostapp.com . Register is not available.
   <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/Capture.PNG?raw=true">
   </p>
   
