@@ -1,5 +1,13 @@
 # ForgeOfBot
-  
+ 
+<p>
+  <b> UPDATE 25/11/2020 </b>
+  <ul>
+    <li> The current available release will not work with the new Forge Of Empires version. The latest working version of the bot will be available in few hours or days, with the <b>new User Interface</b>!</li>
+    <li> It will be also possible to buy the full version which contains all basic features + help others players + military units production + harvest incidents
+  </ul>
+</p>
+
 <p>
 <b>UPDATE 07/11/2020:</b>
 <ul>
