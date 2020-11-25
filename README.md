@@ -7,7 +7,7 @@
    <li> The new release 1.1.9.2 is available! Use the UI to run the bot and configure it much easily! </li>
     <ol>
      <li> Run ForgeOfBot.exe </li>
-     <li> Select "Free Version" if you have not a paid license key <li>
+     <li> Select "Free Version" if you have not a paid license key </li>
      <li> Enter your credentials then click "Login" </li>
      <li> Select your server in the servers list </li>
      <li> Configure the bot then click "Run" <li>
