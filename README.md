@@ -20,6 +20,7 @@
 
 <p>
 <h2> <b> How-to-buy </b> </h2>
+<b> 1 month unlimited features ( limited to 1 computer) = 5 USD </b>
 <ol>
  <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
  <li> Fill the form and validate </li>
@@ -35,7 +36,9 @@
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_management.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/harvest.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.png?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
 </ul>
 </p>
