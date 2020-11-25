@@ -35,10 +35,10 @@
  <li> The update will also contains the option to choose delay between each actions and each iterations </li>
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/harvest.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/harvest.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.PNG?raw=true">
  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
 </ul>
 </p>
