@@ -19,6 +19,16 @@
 </p>
 
 <p>
+<h2> <b> How-tu-run </b> </h2>
+<ol>
+ <li>Download the latest release in "Release" tab </li>
+ <li>Extract the content of the archive in a new folder ( eg: ForgeOfBot)</li>
+ <li>Run "ForgeOfBot.exe"</li>
+ <li><b>If you encounter any issue when starting bot, try to run as administrator</b></li>
+ </ol>
+</p>
+ 
+<p>
 <h2> <b> How-to-buy </b> </h2>
 <b> 1 month (= 30 days), unlimited features ( limited to 1 computer) = 5 USD </b>
 <ol>
