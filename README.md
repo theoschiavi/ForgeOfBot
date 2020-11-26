@@ -19,7 +19,7 @@
 </p>
 
 <p>
-<h2> <b> How-tu-run </b> </h2>
+<h2> <b> How-to-run </b> </h2>
 <ol>
  <li>Download the latest release in "Release" tab </li>
  <li>Extract the content of the archive in a new folder ( eg: ForgeOfBot)</li>
