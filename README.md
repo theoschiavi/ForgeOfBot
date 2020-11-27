@@ -1,5 +1,5 @@
 # ForgeOfBot
-
+<h1><b> The only fully fonctionnal bot for Forge Of Empires, compatible with latest version</b></h1>
 <b> Please Start the repo if you use the bot </b>
 <p>
 <h2> <b> Latest release : </b> </h2>
