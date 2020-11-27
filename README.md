@@ -1,5 +1,6 @@
 # ForgeOfBot
- 
+
+<b> Please Start the repo if you use the bot </b>
 <p>
 <h2> <b> Latest release : </b> </h2>
   <b> UPDATE 25/11/2020 </b>
