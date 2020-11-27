@@ -1,6 +1,21 @@
 # ForgeOfBot
 <h1><b> The only fully fonctionnal bot for Forge Of Empires, compatible with latest version</b></h1>
 <b> Please Start the repo if you use the bot </b>
+
+<p> 
+ <h2> Availables features : </h2>
+ <ul>
+   <li>automatic connection and reconnection</li>
+   <li>auto launch. of productions with choice of the type of production (5min, 15min etc ...)</li>
+   <li>auto launch. production of military units</li>
+   <li>auto. motivate your friends</li>
+   <li>flood all your neighbours with custom message</li>
+   <li>auto harvest. of production (gold, goods, military units)</li>
+   <li>auto harvest. incidents.</li>
+   <li>help automation for other players (polishing)</li>
+  </ul>
+</p>
+
 <p>
 <h2> <b> Latest release : </b> </h2>
   <b> UPDATE 25/11/2020 </b>
@@ -65,19 +80,3 @@
  <li>The situation when the bug happened</li>
  </ul>
  </p>
-
-<p> 
- <h2> Availables features : </h2>
- <ul>
-   <li>automatic connection and reconnection</li>
-   <li>auto launch. of productions with choice of the type of production (5min, 15min etc ...)</li>
-   <li>auto launch. production of military units</li>
-   <li>auto. motivate your friends</li>
-   <li>flood all your neighbours with custom message</li>
-   <li>auto harvest. of production (gold, goods, military units)</li>
-   <li>auto harvest. incidents.</li>
-   <li>help automation for other players (polishing)</li>
-   <li>use by command-line</li>
-  </ul>
-</p>
-
