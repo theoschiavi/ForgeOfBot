@@ -44,6 +44,19 @@
  </ol>
 </p>
  
+ 
+<p> <b> Sreenshots </b>
+ <ul>
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/harvest.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/licence_form.PNG?raw=true">
+ <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
+</ul>
+</p>
+
 <p>
 <h2> <b> How-to-buy </b> </h2>
 <b> 1 month (= 30 days), unlimited features ( limited to 1 computer) = 5 USD </b>
@@ -60,13 +73,6 @@
 <ul>
  <li> The user interface wil be available soon!</li>
  <li> The update will also contains the option to choose delay between each actions and each iterations </li>
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/login_screen.PNG?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/servr_selection.png?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/main_tab.PNG?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/harvest.PNG?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/army_tab.PNG?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/licence_form.PNG?raw=true">
- <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/supplies_tab.PNG?raw=true">
 </ul>
 </p>
 
