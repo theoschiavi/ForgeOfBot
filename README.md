@@ -42,7 +42,8 @@
  <li>Run "ForgeOfBot.exe"</li>
  <li>Eventually, modify Sleep time in the Options dialog. 
   <ul> 
-   <li> <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/options_c1.PNG?raw=true">
+  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/options_c1.PNG?raw=true">
+  <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/options_c2.PNG?raw=true">
    <li> Advised values : 
      <ul>
       <li> Refresh data from server : 600 000 ms or more. </li>
