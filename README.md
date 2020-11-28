@@ -40,7 +40,17 @@
  <li>Download the latest release in "Release" tab </li>
  <li>Extract the content of the archive in a new folder ( eg: ForgeOfBot)</li>
  <li>Run "ForgeOfBot.exe"</li>
- <li><b>If you encounter any issue when starting bot, try to run as administrator</b></li>
+ <li>Eventually, modify Sleep time in the Options dialog. 
+  <ul> 
+   <li> <img src="https://github.com/theoschiavi/ForgeOfBot/blob/master/options_c1.PNG?raw=true">
+   <li> Advised values : 
+     <ul>
+      <li> Refresh data from server : 600 000 ms or more. </li>
+      <li> Sleep time between each iterations : Depending on type of production you use. eg: If you use 5min production, set this value to 300 001 ms will make the bot harvest the production immediatly after the production finish. Increase this value to be more stealthy </li>
+      <li> Sleep time between each actions : 500 or more ms. <b> This values is randomized to be more stealthy. eg : you put 500 ms sleep time between each actions. The bot will wait between [ (500 - 0.1* 500) : (500 + 0.2* 500) ]. </li>
+      </ul>
+   </li>
+ <li> If you encounter any issue when starting bot, try to run as administrator, or post an issue.</li>
  </ol>
 </p>
  
