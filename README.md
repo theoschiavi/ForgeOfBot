@@ -7,10 +7,10 @@
  <ul>
    <li>automatic connection and reconnection</li>
    <li>auto launch. of productions with choice of the type of production (5min, 15min etc ...)</li>
-   <li>auto launch. production of military units</li>
+   <li>auto launch. production of military units <b>Premium</b> </li>
    <li>auto. motivate your friends <b>Premium</b></li>
    <li>flood all your neighbours with custom message <b>Premium</b> </li>
-   <li>auto harvest. of production (gold, goods, military units)</li>
+   <li>auto harvest. of production (gold, goods <b>Free</b>, military units <b>Premium</b> )</li>
    <li>auto harvest. incidents. <b>Premium</b> </li>
    <li>help automation for other players (polishing) <b>Premium</b> </li>
   </ul>
