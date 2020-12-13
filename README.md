@@ -69,7 +69,7 @@
 
 <p>
 <h2> <b> How-to-buy </b> </h2>
-<b> Lieftime license : 270 USD. Send an email for further informations. </b>
+<b> Lieftime license, unlimited features ( limited to 1 computer) = 270 USD </b> Send an email for further informations. </b><br/>
 <b> 1 month (= 30 days), unlimited features ( limited to 1 computer) = 5 USD </b>
 <ol>
  <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
