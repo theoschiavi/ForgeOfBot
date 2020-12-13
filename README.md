@@ -74,7 +74,7 @@
 <ol>
  <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
  <li> Fill the form and validate </li>
- <li> If payment is succesfull, you will be redirected to a new page where you can find your license Key.<b>KEEP IT ON YOUR COMPUTER OR SAVE IT ANYWHERE SAFE! IT WILL BE ASKED AT EVERY BOT LAUNCH. (eg: save it in "license.lic" in the same directory as ForgeOfBot.exe)</b> </li>
+ <li> If payment is succesfull, you will be redirected to a new page where you can find your license Key.</li>
  <li> Run the bot then enter your license key! </li>
 </ol>
 
