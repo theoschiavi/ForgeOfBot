@@ -70,15 +70,18 @@
 <p>
 <h2> <b> How-to-buy </b> </h2>
 <ul>
- <li> <b> Lifetime license, unlimited features ( limited to 1 computer) = 270 USD </b> Send an email for further informations. </b> </li>
+ <li> <b> Lifetime license, unlimited features ( limited to 1 computer) = 200 USD </b> Send an email for further informations. </b> </li>
  <li> <b> 1 month (= 30 days), unlimited features ( limited to 1 computer) = 5 USD </b> </li>
 </ul>
+<b> Card or Paypal </b>
 <ol>
  <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
+ <li> Select the payment method : Card or Paypal </li>
  <li> Fill the form and validate </li>
  <li> If payment is succesfull, you will be redirected to a new page where you can find your license Key.</li>
- <li> Run the bot then enter your license key! </li>
+ <li> Run the bot then enter your license key! Thank you </li>
 </ol>
+
 
 <p>
 <h2> <b> OLD </b> </h2>
