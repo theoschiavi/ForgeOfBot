@@ -82,16 +82,6 @@
  <li> Run the bot then enter your license key! Thank you </li>
 </ol>
 
-
-<p>
-<h2> <b> OLD </b> </h2>
-<b>UPDATE 07/11/2020:</b>
-<ul>
- <li> The user interface wil be available soon!</li>
- <li> The update will also contains the option to choose delay between each actions and each iterations </li>
-</ul>
-</p>
-
  <p>
  <h2>Support</h2>
  For any bugs or issue encountered, please report them with following informations:
