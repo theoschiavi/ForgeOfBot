@@ -76,7 +76,8 @@
 </ul>
 <b> Card or Paypal </b>
 <ol>
- <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link</a> </li>
+ <li> Follow <a href="https://app.cryptolens.io/Form/P/bboemJw9/735">this link for 30 days license</a> </li>
+ <li> Follow <a href="https://app.cryptolens.io/Form/P/P6dRVrtF/921">this link for lifetime license</a> </li>
  <li> Select the payment method : Card or Paypal </li>
  <li> Fill the form and validate </li>
  <li> If payment is succesfull, you will be redirected to a new page where you can find your license Key.</li>
