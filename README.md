@@ -20,9 +20,8 @@
 
 <p>
 <h2> <b> Latest release : </b> </h2>
-  <b> UPDATE 25/11/2020 </b>
+  <b> UPDATE 01/03/2021 </b>
   <ul>
- <li> The new release 1.1.9.2 is <b>now available</b> ! Use the UI to run the bot and configure it much easily! </li>
     <ol>
      <li> Run ForgeOfBot.exe </li>
      <li> Select "Free Version" if you have not a paid license key </li>
