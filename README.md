@@ -71,7 +71,7 @@
 <p>
 <h2> <b> How-to-buy </b> </h2>
 <ul>
- <li> <b> Lifetime license, unlimited features ( limited to 1 computer) = 100 USD </b> Send an email for further informations. </b> </li>
+ <li> <b> Lifetime license, unlimited features ( limited to 1 computer) = 100 USD </b> </li>
  <li> <b> 1 month (= 30 days), unlimited features ( limited to 1 computer) = 15 USD </b> </li>
 </ul>
 <b> Card or Paypal </b>
