@@ -1,7 +1,7 @@
 # ForgeOfBot
 # Last update : 01/03/2021
 
-<h1><b> The only fully fonctionnal bot for Forge Of Empires, compatible with latest version : 1.199 </b></h1>
+<h1><b> Fully fonctionnal bot for Forge Of Empires, compatible with latest version : 1.199 </b></h1>
 :star: Please Start the repo if you use the bot :star:
 </star>
 <p> 
@@ -94,3 +94,5 @@
  <li>The situation when the bug happened</li>
  </ul>
  </p>
+ 
+ <p> /!\ This bot havn't any relations to another bot with the same name (https://github.com/Th3C0D3R/ForgeOfBot)  /!\ </p>
