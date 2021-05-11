@@ -1,7 +1,9 @@
+### outdated, no support available ###
+
 # ForgeOfBot
 # Last update : 01/03/2021
 
-<h1><b> Fully fonctionnal bot for Forge Of Empires, compatible with latest version : 1.199 </b></h1>
+<h1><b> Fully fonctionnal bot for Forge Of Empires, compatible with version : 1.199 </b></h1>
 :star: Please Start the repo if you use the bot :star:
 </star>
 <p> 
